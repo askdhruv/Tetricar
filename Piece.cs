@@ -1,5 +1,6 @@
 using UnityEngine;
 
+
 public class Piece : MonoBehaviour
 {
     public Board board { get; private set; }
